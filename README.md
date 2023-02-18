@@ -1,6 +1,6 @@
-b54id
+b64id
 
-Package `b54id` Generates url-safe Base64 IDs like YouTube IDs.
+Package `b64id` Generates url-safe Base64 IDs like YouTube IDs.
 
 # Getting started
 
